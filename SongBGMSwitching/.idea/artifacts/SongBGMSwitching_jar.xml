@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SongBGMSwitching:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SongBGMSwitching_jar</output-path>
+    <root id="archive" name="SongBGMSwitching.jar">
+      <element id="module-output" name="SongBGMSwitching" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/JMF2.1.1e/lib/jmf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/JMF2.1.1e/lib/sound.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/JMF2.1.1e/lib/customizer.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/JMF2.1.1e/lib/mediaplayer.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/JMF2.1.1e/lib/multiplayer.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
